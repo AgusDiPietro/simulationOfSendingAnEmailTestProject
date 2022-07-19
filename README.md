@@ -1,1 +1,1 @@
-Proyecto envio mail con validacion de campos.
+Project for testing validation of fields and alerts in UserInterface.
